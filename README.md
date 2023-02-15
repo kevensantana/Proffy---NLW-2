@@ -1,6 +1,6 @@
 # :rocket: Next Level Week  - Proffy 
 
-div align="center">
+<div align="center">
   <img src="./Untitled(26).png">
 </div>
 
