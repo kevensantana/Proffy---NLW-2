@@ -1,5 +1,10 @@
 # :rocket: Next Level Week  - Proffy 
 
+div align="center">
+  <img src="./Untitled(26).png">
+</div>
+
+
 ### Projeto
 
 Aplicação que conecta estudantes e professores. Semana NLW - @rocketseat
